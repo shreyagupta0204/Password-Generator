@@ -17,7 +17,21 @@ This project allows users to create strong, random passwords with customizable o
 - Dark/Light mode toggle
 - Clean, neumorphism-style design
 
-Customer-Churn-Management-app/
-├── index.html                      # Main HTML structure
-├── style.css                       # Styling with light/dark themes 
-├── script.js                       # Password generation logic
+## File Details
+
+- **index.html**: Contains the main structure of the application including:
+  - Navigation elements
+  - Customer data display sections
+  - Theme toggle switch
+  - Password generation interface
+
+- **style.css**: Provides comprehensive styling with:
+  - CSS custom properties for theming
+  - Responsive design for multiple screen sizes
+  - Smooth transitions and animations
+  - Consistent UI components
+
+- **script.js**: Implements application functionality including:
+  - Password generation logic
+  - Theme switching between light and dark modes
+  - Interactive UI elements
