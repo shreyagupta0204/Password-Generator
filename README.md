@@ -17,7 +17,7 @@ This project allows users to create strong, random passwords with customizable o
 - Dark/Light mode toggle
 - Clean, neumorphism-style design
 
-password-generator/
-│── index.html     # Main HTML structure
-│── style.css      # Styling with light/dark themes
-│── script.js      # Password generation logic
+Customer-Churn-Management-app/
+├── index.html                      # Main HTML structure
+├── style.css                       # Styling with light/dark themes 
+├── script.js                       # Password generation logic
